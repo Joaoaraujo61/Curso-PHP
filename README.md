@@ -1,2 +1,1 @@
-# Curso-PHP
-Curso de PHP feito no Curso em Vídeo
+-> Curso de PHP feito pelo Curso em Video
